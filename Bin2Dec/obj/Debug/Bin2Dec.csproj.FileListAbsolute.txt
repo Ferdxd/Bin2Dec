@@ -1,0 +1,10 @@
+C:\Users\FERDY AGUSTIN\source\repos\Bin2Dec\bin\Debug\Bin2Dec.exe.config
+C:\Users\FERDY AGUSTIN\source\repos\Bin2Dec\bin\Debug\Bin2Dec.exe
+C:\Users\FERDY AGUSTIN\source\repos\Bin2Dec\bin\Debug\Bin2Dec.pdb
+C:\Users\FERDY AGUSTIN\source\repos\Bin2Dec\obj\Debug\Bin2Dec.csprojAssemblyReference.cache
+C:\Users\FERDY AGUSTIN\source\repos\Bin2Dec\obj\Debug\Bin2Dec.Form1.resources
+C:\Users\FERDY AGUSTIN\source\repos\Bin2Dec\obj\Debug\Bin2Dec.Properties.Resources.resources
+C:\Users\FERDY AGUSTIN\source\repos\Bin2Dec\obj\Debug\Bin2Dec.csproj.GenerateResource.cache
+C:\Users\FERDY AGUSTIN\source\repos\Bin2Dec\obj\Debug\Bin2Dec.csproj.CoreCompileInputs.cache
+C:\Users\FERDY AGUSTIN\source\repos\Bin2Dec\obj\Debug\Bin2Dec.exe
+C:\Users\FERDY AGUSTIN\source\repos\Bin2Dec\obj\Debug\Bin2Dec.pdb
